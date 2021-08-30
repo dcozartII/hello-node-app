@@ -9,3 +9,5 @@
 9. Open up the file test.js in VSCode and hit ctrl+shift+p for the cmd palette
 10. "Select Default Profile"
 11. "Git Bash" 
+12. Type in the terminal "node test.js" and hit enter
+13. After the server is started indicated by the blinking cursor on terminal, type in a browser http://localhost:3000/
